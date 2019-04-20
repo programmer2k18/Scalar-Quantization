@@ -1,1 +1,1 @@
-# Scalar-Quantization
+# Scalar-Quantization in java
